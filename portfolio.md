@@ -1,4 +1,4 @@
-# Portfolio of Aaron Leighfield, 1st January 2019 onwards.
+# Portfolio of Aaron Leighfield, 1st January 2019 onwards
 
 ## Useful commands for GIT within cmd:  
 - git init - Observe the current directory  
