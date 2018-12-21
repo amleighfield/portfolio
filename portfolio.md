@@ -1,4 +1,4 @@
-**Portfolio of Aaron Leighfield, 1st January 2019 onwards.**
+# Portfolio of Aaron Leighfield, 1st January 2019 onwards.
 
 ## Useful commands for GIT, for reference:  
 - git init - Observe the current directory  
@@ -6,7 +6,7 @@
 - git add {filename} - File stated will be tracked from this point onwards  
 - git commit -m 'message' - Commits all tracked files, with the message given within quotation  
   
-##Set details of user:  
+## Set details of user:  
 - git config --global user.name "username"  
 - git config --global user.email "email@address.com"  
 
