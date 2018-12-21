@@ -3,7 +3,7 @@
 Useful commands for GIT, for reference:  
 - git init - Observe the current directory  
 - git status - Detail current statis of repository  
-- git add <filename> - File stated will be tracked from this point onwards  
+- git add {filename} - File stated will be tracked from this point onwards  
 - git commit -m 'message' - Commits all tracked files, with the message given within quotation  
   
 Set details of user:  
